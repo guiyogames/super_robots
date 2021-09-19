@@ -44,7 +44,7 @@ var post = [ // variable post para cargar datos.
      date: 'Publicado el día '+moment().date()+ " de " +moment().format("MMMM") +" del año "+moment().format("YYYY"),
      content: 'Iron Man 28 (Tetsujin 28-gō Japón) fue una serie lanzada en 1980 y es la redición del primer Iron Man de 1963, que a su vez estuvo inspirada en el manga, creada por el genial Mitsuteru Yokoyama. Se trata de un robot gigante creado por el doctor Kaneda, quien será piloteado a control remoto por su hijo Shotaro (más conocido como Ricardo en américa latina), con un pequeño maletín de comandos. En esta serie había muchos enemigos para Iron Man 28. El que más apariciones tuvo fue Branch, un director de una organización mafiosa, que quería imponerse por la fuerza. Branch contaba con una gran infraestructura y alta tecnología, la cual usaba para desarrollar a sus titanes de acero que le plantarían cara a Iron Man 28. También en la serie nos encontramos con un simpático robot de nombre "08", que utilizaba cassettes como en aquellos años 80, y en más de alguna ocasión lo sacó a Ricardo de apuros. Cabe recordar que Iron Man 28 tenía la particularidad que no tenía armamento, él se valía de buenos puñetazos y patadas voladoras, además de una fuerza bruta en el cuerpo a cuerpo capas de hacer añicos a las bestias que lo atacaban. Acompañaban al joven Shotaro y al Doctor Kaneda: El doctor Eduardo Espinoza (Dr. Shikishima en Japón), su esposa Sandra, su hija Marta y el inspector Efraín (Ootsuka en Japón). Iron Man 28 nos ofreció 51 inolvidables capítulos y puso bien alta la vara en el género Mecha. ',
      content_2:'',
-     img:'<img src="img/iron_28.jpg">'
+     img:'<img src="img/iron_man28.jpg">'
        },  
      
  ]; 
