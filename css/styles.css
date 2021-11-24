@@ -336,4 +336,12 @@ footer {
   } 
 
 
+@media (max-width: 450px){
+
+#menu{
+  width: 75%;
+}  
+
+}
+
 
