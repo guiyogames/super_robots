@@ -1,5 +1,8 @@
 body{
     background: url("../img/gran_daizer.jpg");
+    background-image: cover;
+    background-repeat: no-repeat;
+    background-position: center;
     background-attachment: fixed;
  }
  

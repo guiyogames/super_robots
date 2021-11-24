@@ -1,0 +1,17 @@
+Hacer proyecto Mazinger Responsive
+
+poner el post en %100
+
+bajar la imagen de Go Nagai
+
+
+#sidebar
+
+widht: 86%
+margin-top -33
+
+img mazinger 
+
+220px 
+
+151 altura para responsive
