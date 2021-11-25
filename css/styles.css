@@ -333,6 +333,8 @@ footer {
  
 }
 
+
+
   } 
 
 
@@ -341,6 +343,18 @@ footer {
 #menu{
   width: 75%;
 }  
+
+#logo{
+  width: 241px;
+  height: 52px;
+  line-height:82px;
+
+}
+
+h1 {
+  font-size: 31px;
+  margin-top: -18px;
+}
 
 }
 

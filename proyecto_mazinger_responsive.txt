@@ -9,9 +9,21 @@ bajar la imagen de Go Nagai
 
 widht: 86%
 margin-top -33
+-----------------------------
+
+300px
+200px normal
 
 img mazinger 
 
 220px 
 
+
+
+#super robot time
+
+width: 104%
+
 151 altura para responsive
+
+LOGO. H1 29PX
