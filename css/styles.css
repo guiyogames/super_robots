@@ -35,9 +35,11 @@
   line-height: 75px;
   color: white;
   text-align: center;
-  width: 385px;
+  width: 927px;
   height: 80px;
-  margin-bottom: 20px;
+  margin-left: -25px;
+  margin-top: -25px;
+  margin-bottom: 0px;
   float: left;
   text-transform: uppercase;
 }
@@ -49,9 +51,11 @@ h1{
 #menu {
   font-family: Helvetica, Arial;
   background: #333;
-  width: 100%;
+  width:105.7%;
   text-transform: uppercase;
+  margin-left: -25px;
   margin-bottom: 20px;
+
 }
 
 #menu ul li {
@@ -277,6 +281,8 @@ footer {
   height: 200px;
 }
 
+/* responsivo */
+
 @media  (max-width: 768px) {
   #logo {
    
@@ -285,9 +291,10 @@ footer {
     line-height: 75px;
     color: white;
     text-align: center;
-    width: 192px;
+    width: 477px;
     height: 40px;
-    margin-bottom: 20px;
+    margin-top: -25px;
+    margin-bottom: 0px;
   }
 
   h1{

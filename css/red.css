@@ -1,8 +1,7 @@
 body{
-    background: url("../img/gran_daizer.jpg");
+    background: url("../img/little_robots.jpg");
     background-image: cover;
-    background-repeat: no-repeat;
-    background-position: center;
+    background-repeat: repeat;
     background-attachment: fixed;
  }
  
