@@ -36,9 +36,9 @@
   color: white;
   text-align: center;
   width:105.7%;
-  height: 80px;
+  height: 100px;
   margin-left: -25px;
-  margin-top: -25px;
+  margin-top: -55px;
   margin-bottom: 0px;
   float: left;
   text-transform: uppercase;
@@ -46,6 +46,7 @@
 
 h1{
     font-size: 38px;
+    margin-top: 10px;
 }
 
 #menu {
